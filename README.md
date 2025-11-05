@@ -1,2 +1,2 @@
-# Data-Analytics
-This repository contains my data analytics projects.
+# Data Analytics Project SQL Internship Rakamin - Kimia Farma
+
